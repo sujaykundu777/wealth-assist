@@ -8,7 +8,7 @@ export default async function Login(props: { searchParams: Promise<Message> }) {
   const searchParams = await props.searchParams;
 
   return (
-    <div className="mx-auto w-full md:w-[600px] py-40">
+    <div className="mx-auto w-full md:w-150 py-40">
       <form className="flex flex-col mx-8">
         <h1 className="text-2xl font-medium"> Sign in</h1>
         <p className="text-sm text-foreground">
