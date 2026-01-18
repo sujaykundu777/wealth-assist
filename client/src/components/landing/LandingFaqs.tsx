@@ -23,7 +23,8 @@ export const LandingFaqs = ({
   const faqsData = [
     {
       question: "Is this free ?",
-      answer: "Yes, you can use this free for personal use.",
+      answer:
+        "Yes, you can host this yourself and use this free for personal use. You only pay on cloud costs if you use our hosted version.",
     },
     {
       question: "How does this works ?",
@@ -32,7 +33,8 @@ export const LandingFaqs = ({
     },
     {
       question: "Is there any cost for using the AI ?",
-      answer: "No you can use this for free as for now.",
+      answer:
+        "Yes, there is a minimal cost involved for using AI features. If you use our hosted version, we will handle all that for you. You can also host this yourself and use any AI provider of your choice.",
     },
     {
       question: "Is my data safe ?",

@@ -25,23 +25,23 @@ export default function NavMenu() {
   const menuItems = [
     {
       name: "Features",
-      href: "#features",
+      href: "/#features",
     },
     {
       name: "Testimonials",
-      href: "#testimonials",
+      href: "/#testimonials",
     },
     {
       name: "FAQ",
-      href: "#faq",
+      href: "/#faq",
     },
     {
       name: "Blog",
-      href: "#blog",
+      href: "/#blog",
     },
     {
       name: "About us",
-      href: "#about",
+      href: "/#about",
     },
   ];
 
